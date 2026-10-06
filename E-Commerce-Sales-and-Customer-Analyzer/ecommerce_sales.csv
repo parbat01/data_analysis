@@ -1,0 +1,16 @@
+Order_ID,Customer,City,Product,Category,Price,Quantity,Rating,Date
+1001,Aarav,Butwal,Laptop,Electronics,850,1,4.8,2026-01-05
+1002,Bibek,Kathmandu,Phone,Electronics,600,2,4.5,2026-01-08
+1003,Emma,Pokhara,Headphones,Accessories,80,3,4.2,2026-01-12
+1004,Carlos,Butwal,Monitor,Electronics,300,2,4.6,2026-01-15
+1005,Diana,Kathmandu,Keyboard,Accessories,60,4,4.1,2026-01-20
+1006,Frank,Lalitpur,Laptop,Electronics,900,1,4.9,2026-02-03
+1007,Grace,Pokhara,Mouse,Accessories,35,5,4.0,2026-02-07
+1008,Hari,Butwal,Phone,Electronics,650,1,4.7,2026-02-10
+1009,Ishan,Kathmandu,Monitor,Electronics,320,2,4.4,2026-02-14
+1010,Jessica,Lalitpur,Headphones,Accessories,90,2,4.3,2026-02-18
+1011,Aarav,Butwal,Phone,Electronics,620,1,4.6,2026-03-02
+1012,Bibek,Pokhara,Laptop,Electronics,880,1,4.7,2026-03-05
+1013,Emma,Kathmandu,Mouse,Accessories,40,3,3.9,2026-03-09
+1014,Carlos,Lalitpur,Keyboard,Accessories,65,2,4.2,2026-03-12
+1015,Diana,Butwal,Monitor,Electronics,310,1,4.5,2026-03-18
